@@ -17,14 +17,14 @@ h1 {
   font-size: 60px;
   color: white;
   text-align: left;
-  text-shadow: 3px 3px 1px #012773;
+  /* text-shadow: 3px 3px 1px #012773; */
   float: left;
 }
 
 h2 {
   font-size: 40px;
   color: white;
-  text-shadow: 3px 3px 1px #012773;
+  /* text-shadow: 3px 3px 1px #012773; */
 }
 
 p, li {
@@ -32,7 +32,7 @@ p, li {
   color: white;
   line-height: 1.5;
   letter-spacing: 1px;
-  text-shadow: 2px 2px 2px #012773;
+  /* text-shadow: 2px 2px 2px #012773; */
 }
 
 #icon {
