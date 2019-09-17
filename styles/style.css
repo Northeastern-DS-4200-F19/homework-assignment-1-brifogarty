@@ -98,13 +98,13 @@ a:hover {
   width: 40%;
   clear: both;
   float: left;
-  padding-left: 20px;
+  padding: 20px;
 }
 
 #window {
   width: 45%;
   float: right;
-  padding: 20px;
+  padding: 40px;
 }
 
 #footer {
